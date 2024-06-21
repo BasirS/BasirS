@@ -1,6 +1,6 @@
 - 👋 Hey, I’m @BasirS
 - 👀 I’m interested in Data Science!
-- 🌱 I’m currently learning basic programming languages for Data Science such as Python, SQL, R, and PowerBI.
+- 🌱 I’m currently learning basic programming languages for Data Science such as Python, SQL, and R.
 - 💞️ I’m looking to collaborate on any interesting projects that may improve my proficiency in the above languages!
 - 📫 Contact me: abdulbasirsamad@gmail.com
 
