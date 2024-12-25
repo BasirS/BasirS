@@ -1,4 +1,4 @@
-# 👋 Hey there! I'm @BasirS
+# Hey there! I'm Basir <img src="images\waving-hand.gif" alt="hi" width="35px" height="35px">
 
 Welcome to my GitHub profile! Here's a little about me:
 
