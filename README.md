@@ -89,9 +89,9 @@ I'm a third-year Statistics and Quantitative Modeling student with minors in Bio
 
 ## 📫 Let's Connect
 - 📧 [abdulbasirsamad@gmail.com](mailto:abdulbasirsamad@gmail.com)
-- 🔗 [LinkedIn](https://linkedin.com/in/basirsamad)
+- 🔗 [LinkedIn](https://linkedin.com/in/basirsamad) *(Please Connect)*
 - 🌐 Portfolio Website *(Coming Soon!)*
 
 ---
 
-*Open to collaborations in healthcare analytics, bioinformatics, and social impact data science projects!*
+*Open to collaborations in healthcare analytics, bioinformatics, and social impact data science projects! Let's follow each other and make breakthroughs!*
