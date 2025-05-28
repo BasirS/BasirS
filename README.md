@@ -89,7 +89,7 @@ I'm a third-year Statistics and Quantitative Modeling student with minors in Bio
 
 ## 📫 Let's Connect
 - 📧 [abdulbasirsamad@gmail.com](mailto:abdulbasirsamad@gmail.com)
-- 🔗 [LinkedIn](https://linkedin.com/in/basirsamad) *(Please Connect)*
+- 🔗 [LinkedIn](https://linkedin.com/in/basirsamad) *(View It & I'll Connect!)*
 - 🌐 Portfolio Website *(Coming Soon!)*
 
 ---
