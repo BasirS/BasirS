@@ -34,6 +34,11 @@ I'm a third-year Statistics and Quantitative Modeling student with minors in Bio
 
 ## 🚀 Featured Projects
 
+### 💰 [Income Distribution & Poverty Dynamics](https://github.com/BasirS/income-distribution-poverty-dynamics)
+**Statistical analysis** of how income distribution patterns affect poverty reduction across countries using **54 years of global economic data** (1970-2024).
+- 📈 **Tech Stack**: R, Statistical Analysis, Economic Modeling
+- 🌎 **Scope**: Multi-decade analysis across 100+ countries
+
 ### 🏥 [Healthcare Analytics - Hospital Anomaly Detection](https://github.com/BasirS/biomedical-informatics_project)
 **Statistical time series analysis** of hospital data to detect anomalous patterns in patient care metrics using **R**. Validated findings against known incident periods.
 - 📈 **Tech Stack**: R, Time Series Analysis, Statistical Modeling
@@ -43,11 +48,6 @@ I'm a third-year Statistics and Quantitative Modeling student with minors in Bio
 **Data mining and clustering analysis** exploring worldwide shopping and tourism patterns using **Python**.
 - 📊 **Tech Stack**: Python, Pandas, Scikit-learn, Data Visualization
 - 🔍 **Insights**: Clustered 50+ countries by tourism-economy relationships
-
-### 💰 [Income Distribution & Poverty Dynamics](https://github.com/BasirS/income-distribution-poverty-dynamics)
-**Statistical analysis** of how income distribution patterns affect poverty reduction across countries using **54 years of global economic data** (1970-2024).
-- 📈 **Tech Stack**: R, Statistical Analysis, Economic Modeling
-- 🌎 **Scope**: Multi-decade analysis across 100+ countries
 
 ### 🚇 [MHC × MTA Datathon Project](https://github.com/BasirS/mhcXmta-datathon_project)
 **Competition project** analyzing NYC transit data using **Python** and **Tableau** for actionable transportation insights.
