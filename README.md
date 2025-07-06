@@ -18,7 +18,7 @@ I'm passionate about applying statistical modeling and machine learning to solve
 
 ## 🛠️ Tech Stack
 
-### Programming & Data Science *(Break Through Tech AI Program)*
+### Programming & Data Science
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
