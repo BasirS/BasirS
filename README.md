@@ -1,6 +1,6 @@
 # Hi, I'm Basir! 👋
 
-**Data Science Analyst @ Care.com** | **Cornell Tech AI Fellow** | **Statistics Student**  
+**Data Science Analyst @ Care.com** | **Cornell Tech AI Fellow** | **Business Statistics Student**  
 📍 New York, NY | 🎓 Zicklin School of Business
 
 I'm passionate about applying statistical modeling and machine learning to solve real-world problems, particularly in healthcare analytics. Currently working as a Data Science Analyst while completing my Statistics & Quantitative Modeling degree with minors in Biology and Chemistry.
