@@ -19,22 +19,22 @@ I'm passionate about transforming complex data into actionable insights, with a 
 
 ## 🛠 Tech Stack
 
-**Programming & Data Science** *(ML Foundations & AI Studio)*
-- **Languages:** Python, R, SQL
-- **Data Science Libraries:** Pandas, NumPy, Scikit-learn, Matplotlib, ggplot2
-- **Statistical Analysis:** Time Series Modeling (ETS, ARIMA), Regression Analysis, Statistical Inference
-- **Machine Learning:** Supervised Learning, Clustering, Classification Algorithms
-- **Specialized Tools:** Jupyter Notebooks, Google Colab, R (forecast package), SQLite
+**Programming Languages** *(ML Foundations & AI Studio)*  
+[![Languages](https://skillicons.dev/icons?i=py,r,js,html,css,cpp,c)](https://skillicons.dev)
 
-**Visualization & Business Intelligence**
-- **Platforms:** Tableau, Excel Advanced Analytics
-- **Statistical Visualization:** ggplot2, Matplotlib, Statistical Graphics
-- **Dashboard Development:** Interactive Data Visualization
+**Data Science & Analytics**  
+[![Data Science](https://skillicons.dev/icons?i=sklearn,postgres,mysql,sqlite)](https://skillicons.dev)  
+**Libraries & Frameworks:** Pandas, NumPy, Scikit-learn, Matplotlib, ggplot2, TensorFlow, Tableau
 
-**Domain Expertise**
+**Development Tools & Platforms**  
+[![Tools](https://skillicons.dev/icons?i=git,github,jupyter,vscode,excel)](https://skillicons.dev)  
+**Additional:** Google Colab, R (forecast package), Jupyter Notebooks
+
+**Specialized Skills** *(Break Through Tech Program)*
+- **Statistical Modeling:** Time Series Analysis (ETS, ARIMA), Regression, Statistical Inference
+- **Machine Learning:** Supervised Learning, Clustering, Classification, Model Evaluation
 - **Healthcare Analytics:** Patient Care Metrics, Early Warning Systems, Anomaly Detection
-- **Statistical Modeling:** Time Series Decomposition, CUSUM Analysis, Count Data Models
-- **Economic Analysis:** Multi-decade Global Economic Data, Poverty Dynamics Research
+- **Economic Analysis:** Multi-decade Global Data Analysis, Poverty Dynamics Research
 
 ## 🚀 Key Projects
 
