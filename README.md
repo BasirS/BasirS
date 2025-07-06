@@ -1,34 +1,40 @@
 # Hi, I'm Basir! 👋
 
-**Statistics & Quantitative Modeling Student** | **Data Science Enthusiast**  
+**Statistics & Quantitative Modeling Student** | **Break Through Tech AI Fellow**  
 🎓 Zicklin School of Business | 📍 New York, NY
 
-I'm passionate about transforming complex data into actionable insights, with a focus on healthcare analytics and bioinformatics. Currently building expertise in statistical modeling, machine learning, and data visualization to solve real-world problems.
+I'm passionate about transforming complex data into actionable insights, with a focus on healthcare analytics and bioinformatics. As a Break Through Tech Fellow, I've developed expertise in statistical modeling, machine learning, and data visualization to solve real-world problems in critical sectors.
 
-## 🎯 Featured Project: Healthcare Analytics - Hospital Anomaly Detection
+## 🎯 Featured Project: Healthcare Analytics - Early Warning System for Hospital Monitoring
 
-**Statistical time series analysis** of hospital data to detect anomalous patterns in patient care metrics. Successfully identified critical care anomalies with **85% accuracy** and validated findings against known incident periods.
+**Comprehensive statistical analysis** of 139 months of hospital data (1999-2011) to develop an early warning system for detecting anomalous patterns in patient care metrics. Successfully identified the **Ben Geen incident period** using multiple anomaly detection methods.
 
-- **Tech Stack:** R, Time Series Analysis, Statistical Modeling
-- **Impact:** Enhanced hospital monitoring capabilities through data-driven insights
-- **Methods:** Advanced statistical modeling, anomaly detection algorithms
+- **Tech Stack:** R, Time Series Analysis (ETS Models), CUSUM Analysis, Statistical Modeling
+- **Scope:** 4-phase analysis pipeline including EDA, time series modeling, anomaly detection, and early warning system development
+- **Performance:** Achieved 100% sensitivity for emergency admissions and 91% specificity for respiratory events
+- **Methods:** Z-score analysis, Cumulative Sum (CUSUM) control charts, residual analysis, count time series models
+- **Impact:** Validated system against known incident periods, demonstrating potential for real-world healthcare monitoring
 
 [**→ View Project**](https://github.com/BasirS/biomedical-informatics_project)
 
 ## 🛠 Tech Stack
 
-**Programming & Analytics**
+**Programming & Data Science** *(ML Foundations & AI Studio)*
 - **Languages:** Python, R, SQL
-- **Data Science:** Pandas, NumPy, Scikit-learn, Statistical Analysis
-- **Visualization:** Tableau, Excel, Matplotlib, ggplot2
-- **Tools:** Jupyter Notebooks, SQLite, Git
+- **Data Science Libraries:** Pandas, NumPy, Scikit-learn, Matplotlib, ggplot2
+- **Statistical Analysis:** Time Series Modeling (ETS, ARIMA), Regression Analysis, Statistical Inference
+- **Machine Learning:** Supervised Learning, Clustering, Classification Algorithms
+- **Specialized Tools:** Jupyter Notebooks, Google Colab, R (forecast package), SQLite
 
-**Specialized Skills**
-- Statistical Modeling & Inference
-- Time Series Analysis
-- Data Mining & Clustering
-- Healthcare Analytics
-- Economic Data Analysis
+**Visualization & Business Intelligence**
+- **Platforms:** Tableau, Excel Advanced Analytics
+- **Statistical Visualization:** ggplot2, Matplotlib, Statistical Graphics
+- **Dashboard Development:** Interactive Data Visualization
+
+**Domain Expertise**
+- **Healthcare Analytics:** Patient Care Metrics, Early Warning Systems, Anomaly Detection
+- **Statistical Modeling:** Time Series Decomposition, CUSUM Analysis, Count Data Models
+- **Economic Analysis:** Multi-decade Global Economic Data, Poverty Dynamics Research
 
 ## 🚀 Key Projects
 
@@ -51,16 +57,23 @@ Competition project analyzing NYC transit data for actionable transportation ins
 
 </div>
 
-## 🎓 Education & Credentials
+## 🎓 Education & Professional Development
 
-- **B.S. Statistics & Quantitative Modeling** (Current) - Baruch College
+- **B.S. Statistics & Quantitative Modeling** - Baruch College (Current)
 - **Minors:** Biology, Chemistry
+- **Break Through Tech AI Fellow** - ML Foundations Certificate, AI Studio Program
 - **Microsoft Office Specialist (MOS)** - Certified
 - **Google Advanced Data Analytics Professional** - In Progress
 
+*As a Break Through Tech Fellow, I've developed strong technical and professional skills through hands-on machine learning projects, industry mentorship, and collaborative team experiences focused on real-world problem solving.*
+
 ## 🌱 Currently Exploring
 
-Advancing my skills in machine learning algorithms, bioinformatics applications, and data engineering pipelines. Always interested in projects combining statistics with healthcare research and social impact initiatives.
+Advancing my machine learning skills through the **Break Through Tech AI Studio program**, focusing on advanced algorithms, model evaluation, and real-world deployment. Building expertise in bioinformatics applications and data engineering pipelines while developing strong communication, teamwork, and problem-solving skills essential for technical leadership roles.
+
+## 🏆 Professional Development & Leadership
+
+**Break Through Tech Fellow** - Developing technical excellence alongside professional skills including effective communication, collaborative problem-solving, and project management. Committed to continuous learning and applying data science to create meaningful social impact, particularly in healthcare and economic research.
 
 ## 📫 Let's Connect
 
@@ -69,4 +82,4 @@ Advancing my skills in machine learning algorithms, bioinformatics applications,
 
 ---
 
-*Open to collaborations in healthcare analytics, bioinformatics, and data science projects with social impact.*
+*Open to collaborations in healthcare analytics, bioinformatics, and data science projects with social impact. **My Break Through Tech AI Studio project is pinned above** - check it out to see my latest work in statistical modeling and healthcare data analysis!*
