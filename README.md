@@ -49,7 +49,7 @@ NYC transit data analysis using Python and Tableau for transportation insights.
 
 <div align="center">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=BasirS&show_icons=true&theme=default&hide_border=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=BasirS&show_icons=true&theme=default&hide_border=true&hide_rank=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BasirS&layout=compact&theme=default&hide_border=true)
 
